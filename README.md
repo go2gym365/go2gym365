@@ -1,15 +1,19 @@
-### Hi there 👋
+### Hello, I'm Junghwan 💪🏻
 https://pewter-coil-7d4.notion.site/350eca4d4c924801a4b39b84fc70165d
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go2gym)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2gym&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee0622aa)](https://solved.ac/lee0622aa/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2gym&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+# :mailbox_with_mail: Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:go2gym365@gmail.com)](mailto:go2gym365@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lee0622aa@naver.com)](mailto:lee0622aa@naver.com)
+
 <!--
 **Go2gym/Go2gym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Here are [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)some ideas to get you started:
+https://cocoon1787.tistory.com/827
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
