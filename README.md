@@ -2,9 +2,9 @@
 https://pewter-coil-7d4.notion.site/350eca4d4c924801a4b39b84fc70165d
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go2gym)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee0622aa)](https://solved.ac/lee0622aa/)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2gym)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go2gym&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Go2gym/Go2gym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
