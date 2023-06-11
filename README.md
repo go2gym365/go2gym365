@@ -1,7 +1,20 @@
-## Hello, I'm Junghwan 💪🏻
 
+<div align="center">
+  
+## Hello, I'm Junghwan 💪🏻
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGo2gym&count_bg=%23B2C9FF&title_bg=%2348529C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+ # 📚 STACK
+  <div>      
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge-square&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge-square&logo=Spring&logoColor=white">
+  </div>
+  
+  
 # 🛠 GitHub Stats
 <p>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Go2gym&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
@@ -14,6 +27,11 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:go2gym365@gmail.com)](mailto:go2gym365@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lee0622aa@naver.com)](mailto:lee0622aa@naver.com)
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://instagram.com/im_not_hwanjang/"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/im_not_hwanjang/"/>
+  
+</div>
+
 
 <!--
 **Go2gym/Go2gym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
