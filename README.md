@@ -5,15 +5,20 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGo2gym&count_bg=%23B2C9FF&title_bg=%2348529C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
- # 📚 STACK
-  <div>      
+ # 📚 STACK 📚
+  <div>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=OpenJDK&logoColor=black"> -->
   </div>
+  <!--
   <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge-square&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge-square&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge-square&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge-square&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge-square&logo=GraphQL&logoColor=white">
   </div>
-  
+-->
   
 # 🛠 GitHub Stats
 <p>
