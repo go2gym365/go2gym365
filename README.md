@@ -23,7 +23,6 @@
   
 # 🛠 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee0622aa)](https://solved.ac/lee0622aa/)
-  <img src="http://mazandi.herokuapp.com/api?handle={lee0622aa}&theme=warm"/>
 
 
 # :mailbox_with_mail: Contacts
