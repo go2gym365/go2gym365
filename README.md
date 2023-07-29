@@ -29,7 +29,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:go2gym365@gmail.com)](mailto:go2gym365@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lee0622aa@naver.com)](mailto:lee0622aa@naver.com)
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://instagram.com/im_not_hwanjang/"/>
+<a href="https://pewter-coil-7d4.notion.site/3b7cf435fd6d45bd83d62c830d606868?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://instagram.com/im_not_hwanjang/"/>
 <a href="https://www.instagram.com/im_not_hwanjang/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/im_not_hwanjang/"/>
   
 </div>
