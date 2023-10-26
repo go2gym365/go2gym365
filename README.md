@@ -1,7 +1,7 @@
 
 <div align="center">
   
-## Hello, I'm Junghwan 💪🏻
+## Hello, I'm Jeonghwan 💪🏻
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGo2gym&count_bg=%23B2C9FF&title_bg=%2348529C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
