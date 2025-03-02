@@ -16,12 +16,6 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge-square&logo=Spring%20Boot&logoColor=white"/>
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge-square&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge-square&logo=tensorflow&logoColor=white">
-
-    <!--<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge-square&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge-square&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge-square&logo=Next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge-square&logo=GraphQL&logoColor=white">-->
   </div>  
   
 # 🛠 Stats
