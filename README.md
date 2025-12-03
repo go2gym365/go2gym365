@@ -3,19 +3,17 @@
   
 ## Hello, I'm Jeonghwan 💪🏻
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGo2gym&count_bg=%23B2C9FF&title_bg=%2348529C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://mblogthumb-phinf.pstatic.net/MjAyMDAzMzBfMjU0/MDAxNTg1NTc3MTc4NzY3.i9Rkdffs4p_Y1yLYS0yIxgGkQRClUrk4bxN8VANr6oUg.sNbauR1j9CnsJIyGMVTFTxQYEWZkoOKvVW_feHPzC24g.GIF.pikiro/IMG_0416.GIF?type=w800)
 
  # 📚 STACK 📚
   <div>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge-square&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge-square&logo=OpenJDK&logoColor=black">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge-square&logo=Python&logoColor=white">
   </div>
   <div>
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge-square&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge-square&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge-square&logo=Spring%20Boot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge-square&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge-square&logo=tensorflow&logoColor=white">
   </div>  
   
 # 🛠 Stats
